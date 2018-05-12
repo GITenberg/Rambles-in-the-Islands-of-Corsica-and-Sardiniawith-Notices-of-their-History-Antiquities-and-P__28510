@@ -1,0 +1,28 @@
+_repo: Rambles-in-the-Islands-of-Corsica-and-Sardiniawith-Notices-of-their-History-Antiquities-and-P__28510
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Forester, Thomas
+    alias: Forester, T. (Thomas)
+    gutenberg_agent_id: '33375'
+    url: http://www.gutenberg.org/2009/agents/33375
+description: ''
+gutenberg_issued: '2009-04-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28510'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sardinia (Italy) -- Description and travel'
+- !lcsh 'Corsica (France) -- Description and travel'
+- !lcc 'DC'
+title: 'Rambles in the Islands of Corsica and Sardinia
+
+  with Notices of their History, Antiquities, and Present Condition.'
+url: http://www.gutenberg.org/ebooks/28510
