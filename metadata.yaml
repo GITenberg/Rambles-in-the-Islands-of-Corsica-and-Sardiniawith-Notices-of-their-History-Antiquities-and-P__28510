@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '33375'
     url: http://www.gutenberg.org/2009/agents/33375
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28510#Rambles-in-the-Islands-of-Corsica-and-Sardiniawith-Notices-of-their-History-Antiquities-and-P_
 gutenberg_issued: '2009-04-06'
 gutenberg_type: Text
 identifiers:
